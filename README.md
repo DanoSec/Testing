@@ -40,11 +40,7 @@ Introduce el segundo número: 8
 El resultado de la suma es: 13
 ```
 
-## Objetivo del repositorio
-
-Este repositorio parece pensado como entorno de pruebas: subir ejemplos pequeños, validar compilaciones y practicar flujo básico con Git/GitHub.
-
-## Posibles siguientes pasos
+## TODO
 
 - añadir resta, multiplicación y división,
 - validar errores de entrada en `scanf`,
